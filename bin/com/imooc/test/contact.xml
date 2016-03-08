@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="E:\workspace_STS\test\src\com\imooc\test\contact.css"?>
+<contactList>
+	<contact id="001" name="erhuo">
+		<name>张三</name>
+		<age>18</age>
+		<phone>123543453</phone>
+		<email>zhangsan@163.com</email>
+		<qq>345345344</qq>
+	</contact>
+	<contact id="002">
+		<name>李四</name>
+		<age>28</age>
+		<phone>145564563</phone>
+		<email>lisi@163.com</email>
+		<qq>435345343</qq>
+	</contact>
+	<bac></bac>
+</contactList>
